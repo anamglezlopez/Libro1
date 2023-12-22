@@ -1,3 +1,5 @@
 o       Chacon, S. and Straub, B. Pro Git. Apress.
 o	Scott Chacon and Ben Straub. Pro Git. Apress.
 o	Ryan Hodson. Ry’s Git Tutorial. Smashwords (2014)
+o	Chacon, S. and Straub, B. Pro Git. Apress.
+o	Loeliger, J. and McCullough, M. Version control with Git. O’Reilly.
