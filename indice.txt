@@ -1,5 +1,5 @@
 Capítulo 1: Introduccion a GIT
-Capítulo 2: Flujo de trabajo básico
+Capítulo 2: GitFlow: el flujo de trabajo en Git
 Capitulo 3: Gestión de ramas
 
 
