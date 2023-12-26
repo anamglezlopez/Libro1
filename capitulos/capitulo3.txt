@@ -1,1 +1,5 @@
 GIT permite la creación de ramas lo que permite tener distintas versiones del mismo proyecto y trabajar de manera simultánea en ellas
+26/12/2023
+libro  GIT 5
+Añado lineas segun ejercicio 1/4
+He cambiado a commit, he creado nueva rama y modifico archivo
